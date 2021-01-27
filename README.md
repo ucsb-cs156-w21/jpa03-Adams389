@@ -10,7 +10,8 @@ On Heroku: https://jpa03-jiayuchen.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa03-Adams389
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-w21/jpa03-cgaucho/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-w21/jpa03-cgaucho)
+[![codecov](https://codecov.io/gh/ucsb-cs156-w21/jpa03-Adams389/branch/main/graph/badge.svg?token=ZV902LRTLB)](https://codecov.io/gh/ucsb-cs156-w21/jpa03-Adams389)
+
 
 
 ## Integrations
